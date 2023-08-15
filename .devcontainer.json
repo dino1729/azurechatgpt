@@ -46,12 +46,12 @@
 	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [3000],
+	// "forwardPorts": [3003],
 
 	// Use 'portsAttributes' to set default properties for specific forwarded ports. 
 	// More info: https://containers.dev/implementors/json_reference/#port-attributes
 	// "portsAttributes": {
-	// 	"3000": {
+	// 	"3003": {
 	// 		"label": "Hello Remote World",
 	// 		"onAutoForward": "notify"
 	// 	}
